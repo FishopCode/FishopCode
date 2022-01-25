@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @FishopCode
-- 👀 I’m interested in music and coding
-- 🌱 I’m currently learning Python, Html/CSS and also Javascript
-- 📫 My discord (if you want to contact me): Fishop#2680
+- 👋 Hi, I’m @FishopCode and I’m interested in music and coding.
